@@ -75,7 +75,7 @@ public class Main extends Application {
         this.primaryStage = primaryStage;
 
         FXMLLoader view = new FXMLLoader(
-                getClass().getResource("layouts/view.fxml"));
+                getClass().getResource("/view.fxml"));
         Parent loadingLayout = view.load();
         viewController = view.getController();
         viewController.setMain(this);

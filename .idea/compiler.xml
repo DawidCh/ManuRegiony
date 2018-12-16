@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ManuRegiony" target="1.5" />
+      <module name="ManuRegiony" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
